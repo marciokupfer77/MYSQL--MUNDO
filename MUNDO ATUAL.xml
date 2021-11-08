@@ -1,0 +1,739 @@
+<DATA>
+
+	<ROW>
+		<id_paises>1</id_paises>
+		<nome>AUSTRIA</nome>
+		<CAPITAL>VIENA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>AUSTRIACO</lingua>
+		<area>5200000</area>
+		<populaçao>4500000</populaçao>
+		<gpd>1250032005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>2</id_paises>
+		<nome>JAPAO</nome>
+		<CAPITAL>TOKYO</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>JAPONES</lingua>
+		<area>2200000</area>
+		<populaçao>3800000</populaçao>
+		<gpd>1050045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>3</id_paises>
+		<nome>CHILE</nome>
+		<CAPITAL>SANTIAGO</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>5200000</area>
+		<populaçao>5800000</populaçao>
+		<gpd>1750045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>4</id_paises>
+		<nome>CANADA</nome>
+		<CAPITAL>TORONTO</CAPITAL>
+		<continente>AMERICA DO NORTE</continente>
+		<lingua>INGLES</lingua>
+		<area>9600000</area>
+		<populaçao>9800000</populaçao>
+		<gpd>1350045007</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>5</id_paises>
+		<nome>ALBANIA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ALBANES</lingua>
+		<area>4200000</area>
+		<populaçao>4800000</populaçao>
+		<gpd>1250045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>6</id_paises>
+		<nome>BRASIL</nome>
+		<CAPITAL>BRASILIA</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>PORTUGUES</lingua>
+		<area>6500000</area>
+		<populaçao>23000000</populaçao>
+		<gpd>500320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>7</id_paises>
+		<nome>MEXICO</nome>
+		<CAPITAL>CIDADE DO MEXICO</CAPITAL>
+		<continente>AMERICA DO NORTE</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>7600000</area>
+		<populaçao>8800000</populaçao>
+		<gpd>1750045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>8</id_paises>
+		<nome>ITALIA</nome>
+		<CAPITAL>ROMA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ITALIANO</lingua>
+		<area>1500000</area>
+		<populaçao>21000000</populaçao>
+		<gpd>100420002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>9</id_paises>
+		<nome>INGLATERRA</nome>
+		<CAPITAL>LONDRES</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>INGLES</lingua>
+		<area>2500000</area>
+		<populaçao>11000000</populaçao>
+		<gpd>100250002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>10</id_paises>
+		<nome>HOLANDA</nome>
+		<CAPITAL>AMSTERDA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>HOLANDES</lingua>
+		<area>1150000</area>
+		<populaçao>21500000</populaçao>
+		<gpd>100120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>11</id_paises>
+		<nome>SUECIA</nome>
+		<CAPITAL>ESTOCOLMO</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>SUECO</lingua>
+		<area>1500000</area>
+		<populaçao>11500000</populaçao>
+		<gpd>100250300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>12</id_paises>
+		<nome>SUIÇA</nome>
+		<CAPITAL>ZURIQUE</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>FRANCES</lingua>
+		<area>1400000</area>
+		<populaçao>11000200</populaçao>
+		<gpd>300110100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>13</id_paises>
+		<nome>RUSSIA</nome>
+		<CAPITAL>MOSCOU</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>RUSSO</lingua>
+		<area>7400000</area>
+		<populaçao>65000000</populaçao>
+		<gpd>500120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>14</id_paises>
+		<nome>ESCOCIA</nome>
+		<CAPITAL>GLASGOW</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ESCOCES</lingua>
+		<area>1200000</area>
+		<populaçao>1000300</populaçao>
+		<gpd>100350002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>15</id_paises>
+		<nome>HUNGRIA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ALEMAO</lingua>
+		<area>1200000</area>
+		<populaçao>11000000</populaçao>
+		<gpd>200110100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>16</id_paises>
+		<nome>CROACIA</nome>
+		<CAPITAL>ZAGREB</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>CROATA</lingua>
+		<area>1100000</area>
+		<populaçao>1000000</populaçao>
+		<gpd>100120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>17</id_paises>
+		<nome>espanha</nome>
+		<CAPITAL>MADRI</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>5600000</area>
+		<populaçao>7800000</populaçao>
+		<gpd>1150045007</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>18</id_paises>
+		<nome>reino unido</nome>
+		<CAPITAL>NENHUMA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>INGLES</lingua>
+		<area>9600000</area>
+		<populaçao>9800000</populaçao>
+		<gpd>1950045007</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>19</id_paises>
+		<nome>EGITO</nome>
+		<CAPITAL>CAIRO</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>egipicio</lingua>
+		<area>3500000</area>
+		<populaçao>13000000</populaçao>
+		<gpd>200320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>20</id_paises>
+		<nome>MARROCOS</nome>
+		<CAPITAL>MARRAQUESH</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>EGIPICIO</lingua>
+		<area>1500000</area>
+		<populaçao>12000000</populaçao>
+		<gpd>200320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>21</id_paises>
+		<nome>MOÇANBIQUE</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>PORTUGUES</lingua>
+		<area>1400000</area>
+		<populaçao>11000000</populaçao>
+		<gpd>200120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>22</id_paises>
+		<nome>SENEGAL</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>FRANCES</lingua>
+		<area>1500000</area>
+		<populaçao>12000000</populaçao>
+		<gpd>100320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>23</id_paises>
+		<nome>NIGERIA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>FRANCES</lingua>
+		<area>3500000</area>
+		<populaçao>18000000</populaçao>
+		<gpd>200320100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>24</id_paises>
+		<nome>COSTA DO MARFIM</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>FRANCES</lingua>
+		<area>1500000</area>
+		<populaçao>23000000</populaçao>
+		<gpd>100320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>25</id_paises>
+		<nome>GANA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>FRANCES</lingua>
+		<area>1500000</area>
+		<populaçao>12000000</populaçao>
+		<gpd>200220100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>26</id_paises>
+		<nome>URUGUAI</nome>
+		<CAPITAL>MONTEVIDEU</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>3200000</area>
+		<populaçao>3500000</populaçao>
+		<gpd>1050032001</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>27</id_paises>
+		<nome>ARGENTINA</nome>
+		<CAPITAL>BUENOS AIRES</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>3100000</area>
+		<populaçao>3400000</populaçao>
+		<gpd>1040025001</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>28</id_paises>
+		<nome>VENEZUELA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>4200000</area>
+		<populaçao>3800000</populaçao>
+		<gpd>1250032001</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>29</id_paises>
+		<nome>PERU</nome>
+		<CAPITAL>LIMA</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>1200000</area>
+		<populaçao>3000000</populaçao>
+		<gpd>1040032001</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>30</id_paises>
+		<nome>BOLIVIA</nome>
+		<CAPITAL>LA PAZ</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>3500000</area>
+		<populaçao>3100000</populaçao>
+		<gpd>1020025001</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>31</id_paises>
+		<nome>COLOMBIA</nome>
+		<CAPITAL>BOGOTA</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>4100000</area>
+		<populaçao>3500000</populaçao>
+		<gpd>1230032001</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>32</id_paises>
+		<nome>PANAMA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>america entral</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>1500010</area>
+		<populaçao>11300000</populaçao>
+		<gpd>100110300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>33</id_paises>
+		<nome>PORTO RICO</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>america entral</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>1000010</area>
+		<populaçao>11200000</populaçao>
+		<gpd>100200300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>34</id_paises>
+		<nome>REP DOMINICANA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>america entral</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>1300010</area>
+		<populaçao>18200000</populaçao>
+		<gpd>100200200</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>35</id_paises>
+		<nome>GUATEMALA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>america entral</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>1000010</area>
+		<populaçao>11200000</populaçao>
+		<gpd>100200300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>36</id_paises>
+		<nome>SURINAME</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>america SUL</continente>
+		<lingua>HOLANDES</lingua>
+		<area>1000010</area>
+		<populaçao>10200000</populaçao>
+		<gpd>100000200</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>37</id_paises>
+		<nome>POLONIA</nome>
+		<CAPITAL>VARSOVIA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>POLONES</lingua>
+		<area>2000510</area>
+		<populaçao>41200000</populaçao>
+		<gpd>120200300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>38</id_paises>
+		<nome>BELGICA</nome>
+		<CAPITAL>BRUXELAS</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>HOLANDES</lingua>
+		<area>2000010</area>
+		<populaçao>18200000</populaçao>
+		<gpd>100000800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>39</id_paises>
+		<nome>PORTUGAL</nome>
+		<CAPITAL>PORTO</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>PORTUGUES</lingua>
+		<area>3000010</area>
+		<populaçao>25200000</populaçao>
+		<gpd>300000800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>40</id_paises>
+		<nome>REP TCHECA</nome>
+		<CAPITAL>PRAGA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ALEMAO</lingua>
+		<area>1000010</area>
+		<populaçao>10200000</populaçao>
+		<gpd>100200800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>41</id_paises>
+		<nome>TURQUIA</nome>
+		<CAPITAL>ISTAMBUL</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>TURCO</lingua>
+		<area>4000510</area>
+		<populaçao>38000000</populaçao>
+		<gpd>120100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>42</id_paises>
+		<nome>COREIA SUL</nome>
+		<CAPITAL>SEUL</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>COREANO</lingua>
+		<area>1000020</area>
+		<populaçao>10500000</populaçao>
+		<gpd>100002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>43</id_paises>
+		<nome>NORUEGA</nome>
+		<CAPITAL>OSLO</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>NORUEGUES</lingua>
+		<area>2005010</area>
+		<populaçao>10000000</populaçao>
+		<gpd>100090800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>44</id_paises>
+		<nome>ESLOVAQUIA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ALEMAO</lingua>
+		<area>1900010</area>
+		<populaçao>14200000</populaçao>
+		<gpd>110100800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>45</id_paises>
+		<nome>CHINA</nome>
+		<CAPITAL>PEQUIM</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>MANDARIM</lingua>
+		<area>9000510</area>
+		<populaçao>88000000</populaçao>
+		<gpd>850100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>46</id_paises>
+		<nome>GRECIA</nome>
+		<CAPITAL>ATENAS</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>GREGO</lingua>
+		<area>1000010</area>
+		<populaçao>11200000</populaçao>
+		<gpd>100002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>47</id_paises>
+		<nome>MACEDONIA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>GREGO</lingua>
+		<area>1000010</area>
+		<populaçao>11200000</populaçao>
+		<gpd>100000800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>48</id_paises>
+		<nome>ROMENIA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ROMENO</lingua>
+		<area>1500010</area>
+		<populaçao>13200000</populaçao>
+		<gpd>100100800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>49</id_paises>
+		<nome>BULGARIA</nome>
+		<CAPITAL>SOFIA</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>ALBANES</lingua>
+		<area>4200000</area>
+		<populaçao>4800000</populaçao>
+		<gpd>1250045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>50</id_paises>
+		<nome>IRLANDA</nome>
+		<CAPITAL>DUBLIN</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>IRLANDES</lingua>
+		<area>4000510</area>
+		<populaçao>30000000</populaçao>
+		<gpd>270100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>51</id_paises>
+		<nome>SIRI LANKA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>INGLES</lingua>
+		<area>1100010</area>
+		<populaçao>10200000</populaçao>
+		<gpd>120100800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>52</id_paises>
+		<nome>TAIWAN</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>MANDARIM</lingua>
+		<area>1005010</area>
+		<populaçao>11100000</populaçao>
+		<gpd>100060800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>53</id_paises>
+		<nome>DINAMARCA</nome>
+		<CAPITAL>COPENHAGUE</CAPITAL>
+		<continente>EUROPA</continente>
+		<lingua>DINAMARQUES</lingua>
+		<area>8000020</area>
+		<populaçao>60500000</populaçao>
+		<gpd>160002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>54</id_paises>
+		<nome>EQUADOR</nome>
+		<CAPITAL>QUITO</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>5000510</area>
+		<populaçao>10000000</populaçao>
+		<gpd>110100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>55</id_paises>
+		<nome>PARAGUAI</nome>
+		<CAPITAL>ASSUNÇAO</CAPITAL>
+		<continente>AMERICA DO SUL</continente>
+		<lingua>ESPANHOL</lingua>
+		<area>3000020</area>
+		<populaçao>20500000</populaçao>
+		<gpd>110002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>56</id_paises>
+		<nome>HONG KONG</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>MANDARIM</lingua>
+		<area>1000510</area>
+		<populaçao>30000000</populaçao>
+		<gpd>100100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>57</id_paises>
+		<nome>BUTAO</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>MANDARIM</lingua>
+		<area>1000020</area>
+		<populaçao>10500000</populaçao>
+		<gpd>160002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>58</id_paises>
+		<nome>HONG KONG</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>ASIA</continente>
+		<lingua>MANDARIM</lingua>
+		<area>1000510</area>
+		<populaçao>30000000</populaçao>
+		<gpd>100100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>59</id_paises>
+		<nome>TIMOR LESTE</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>OCEANIA</continente>
+		<lingua>INGLES</lingua>
+		<area>3000510</area>
+		<populaçao>20000000</populaçao>
+		<gpd>100300300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>60</id_paises>
+		<nome>AUSTRALIA</nome>
+		<CAPITAL>SIDNEI</CAPITAL>
+		<continente>OCEANIA</continente>
+		<lingua>INGLES</lingua>
+		<area>8000020</area>
+		<populaçao>40500000</populaçao>
+		<gpd>250002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>61</id_paises>
+		<nome>NOVA ZELANDIA</nome>
+		<CAPITAL>AUCKLAND</CAPITAL>
+		<continente>OCEANIA</continente>
+		<lingua>INGLES</lingua>
+		<area>3000510</area>
+		<populaçao>20000000</populaçao>
+		<gpd>100300300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>62</id_paises>
+		<nome>ZAIRE</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>INGLES</lingua>
+		<area>1000510</area>
+		<populaçao>10000000</populaçao>
+		<gpd>105300300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>63</id_paises>
+		<nome>CAMAROES</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>INGLES</lingua>
+		<area>4000020</area>
+		<populaçao>20500000</populaçao>
+		<gpd>180002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>64</id_paises>
+		<nome>ZIMBAWE</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>INGLES</lingua>
+		<area>1600510</area>
+		<populaçao>17000000</populaçao>
+		<gpd>106100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>65</id_paises>
+		<nome>CHADE</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AFRICA</continente>
+		<lingua>INGLES</lingua>
+		<area>2000020</area>
+		<populaçao>10300000</populaçao>
+		<gpd>114002800</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>66</id_paises>
+		<nome>ESTADOS UNIDOS</nome>
+		<CAPITAL>WACHINTOWM</CAPITAL>
+		<continente>AMERICA DO NORTE</continente>
+		<lingua>INGLES</lingua>
+		<area>7400510</area>
+		<populaçao>33000000</populaçao>
+		<gpd>704100300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>67</id_paises>
+		<nome>ALASCA</nome>
+		<CAPITAL>NULL</CAPITAL>
+		<continente>AMERICA DO NORTE</continente>
+		<lingua>INGLES</lingua>
+		<area>1000020</area>
+		<populaçao>10100000</populaçao>
+		<gpd>110002800</gpd>
+	</ROW>
+</DATA>

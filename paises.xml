@@ -1,0 +1,236 @@
+<DATA>
+
+	<ROW>
+		<id_paises>1</id_paises>
+		<nome>austria</nome>
+		<continente>europa</continente>
+		<area>5200000</area>
+		<populaçao>4500000</populaçao>
+		<gpd>1250032005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>2</id_paises>
+		<nome>japao</nome>
+		<continente>asia</continente>
+		<area>2200000</area>
+		<populaçao>3800000</populaçao>
+		<gpd>1050045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>3</id_paises>
+		<nome>chile</nome>
+		<continente>america sul</continente>
+		<area>5200000</area>
+		<populaçao>5800000</populaçao>
+		<gpd>1750045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>4</id_paises>
+		<nome>canada</nome>
+		<continente>america nor</continente>
+		<area>9600000</area>
+		<populaçao>9800000</populaçao>
+		<gpd>1350045007</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>5</id_paises>
+		<nome>albania</nome>
+		<continente>europa</continente>
+		<area>4200000</area>
+		<populaçao>4800000</populaçao>
+		<gpd>1250045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>5</id_paises>
+		<nome>albania</nome>
+		<continente>europa</continente>
+		<area>4200000</area>
+		<populaçao>4800000</populaçao>
+		<gpd>1250045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>6</id_paises>
+		<nome>BRASIL</nome>
+		<continente>AMERICA DO SUL</continente>
+		<area>6500000</area>
+		<populaçao>23000000</populaçao>
+		<gpd>500320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>7</id_paises>
+		<nome>mexico</nome>
+		<continente>america nor</continente>
+		<area>7600000</area>
+		<populaçao>8800000</populaçao>
+		<gpd>1750045005</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>8</id_paises>
+		<nome>ITALIA</nome>
+		<continente>EUROPA</continente>
+		<area>1500000</area>
+		<populaçao>21000000</populaçao>
+		<gpd>100420002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>9</id_paises>
+		<nome>INGLATERRA</nome>
+		<continente>EUROPA</continente>
+		<area>2500000</area>
+		<populaçao>11000000</populaçao>
+		<gpd>100250002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>10</id_paises>
+		<nome>HOLANDA</nome>
+		<continente>EUROPA</continente>
+		<area>1150000</area>
+		<populaçao>21500000</populaçao>
+		<gpd>100120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>11</id_paises>
+		<nome>SUECIA</nome>
+		<continente>EUROPA</continente>
+		<area>1500000</area>
+		<populaçao>11500000</populaçao>
+		<gpd>100250300</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>12</id_paises>
+		<nome>SUIÇA</nome>
+		<continente>EUROPA</continente>
+		<area>1400000</area>
+		<populaçao>11000200</populaçao>
+		<gpd>300110100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>13</id_paises>
+		<nome>RUSSIA</nome>
+		<continente>EUROPA</continente>
+		<area>7400000</area>
+		<populaçao>65000000</populaçao>
+		<gpd>500120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>14</id_paises>
+		<nome>ESCOCIA</nome>
+		<continente>EUROPA</continente>
+		<area>1200000</area>
+		<populaçao>1000300</populaçao>
+		<gpd>100350002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>15</id_paises>
+		<nome>HUNGRIA</nome>
+		<continente>EUROPA</continente>
+		<area>1200000</area>
+		<populaçao>11000000</populaçao>
+		<gpd>200110100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>16</id_paises>
+		<nome>CROACIA</nome>
+		<continente>EUROPA</continente>
+		<area>1100000</area>
+		<populaçao>1000000</populaçao>
+		<gpd>100120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>17</id_paises>
+		<nome>espanha</nome>
+		<continente>europa</continente>
+		<area>5600000</area>
+		<populaçao>7800000</populaçao>
+		<gpd>1150045007</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>18</id_paises>
+		<nome>reino unido</nome>
+		<continente>europa</continente>
+		<area>9600000</area>
+		<populaçao>9800000</populaçao>
+		<gpd>1950045007</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>19</id_paises>
+		<nome>EGITO</nome>
+		<continente>AFRICA</continente>
+		<area>3500000</area>
+		<populaçao>13000000</populaçao>
+		<gpd>200320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>20</id_paises>
+		<nome>MARROCOS</nome>
+		<continente>AFRICA</continente>
+		<area>1500000</area>
+		<populaçao>12000000</populaçao>
+		<gpd>200320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>21</id_paises>
+		<nome>MOÇANBIQUE</nome>
+		<continente>AFRICA</continente>
+		<area>1400000</area>
+		<populaçao>11000000</populaçao>
+		<gpd>200120002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>22</id_paises>
+		<nome>SENEGAL</nome>
+		<continente>AFRICA</continente>
+		<area>1500000</area>
+		<populaçao>12000000</populaçao>
+		<gpd>100320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>23</id_paises>
+		<nome>NIGERIA</nome>
+		<continente>AFRICA</continente>
+		<area>3500000</area>
+		<populaçao>18000000</populaçao>
+		<gpd>200320100</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>24</id_paises>
+		<nome>COSTA DO MARFIM</nome>
+		<continente>AFRICA</continente>
+		<area>1500000</area>
+		<populaçao>23000000</populaçao>
+		<gpd>100320002</gpd>
+	</ROW>
+
+	<ROW>
+		<id_paises>25</id_paises>
+		<nome>GANA</nome>
+		<continente>AFRICA</continente>
+		<area>1500000</area>
+		<populaçao>12000000</populaçao>
+		<gpd>200220100</gpd>
+	</ROW>
+</DATA>

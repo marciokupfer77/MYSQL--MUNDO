@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id_paises</Data></Cell>
+			<Cell><Data ss:Type="String">nome</Data></Cell>
+			<Cell><Data ss:Type="String">continente</Data></Cell>
+			<Cell><Data ss:Type="String">lingua</Data></Cell>
+			<Cell><Data ss:Type="String">area</Data></Cell>
+			<Cell><Data ss:Type="String">populaçao</Data></Cell>
+			<Cell><Data ss:Type="String">gpd</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">COSTA DO MARFIM</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">FRANCES</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="Number">23000000</Data></Cell>
+			<Cell><Data ss:Type="Number">100320002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">SENEGAL</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">FRANCES</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="Number">12000000</Data></Cell>
+			<Cell><Data ss:Type="Number">100320002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">MOÇANBIQUE</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">PORTUGUES</Data></Cell>
+			<Cell><Data ss:Type="Number">1400000</Data></Cell>
+			<Cell><Data ss:Type="Number">11000000</Data></Cell>
+			<Cell><Data ss:Type="Number">200120002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">GANA</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">FRANCES</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="Number">12000000</Data></Cell>
+			<Cell><Data ss:Type="Number">200220100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">EGITO</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">egipicio</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="Number">13000000</Data></Cell>
+			<Cell><Data ss:Type="Number">200320002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">MARROCOS</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">EGIPICIO</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="Number">12000000</Data></Cell>
+			<Cell><Data ss:Type="Number">200320002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">NIGERIA</Data></Cell>
+			<Cell><Data ss:Type="String">AFRICA</Data></Cell>
+			<Cell><Data ss:Type="String">FRANCES</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="Number">18000000</Data></Cell>
+			<Cell><Data ss:Type="Number">200320100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">canada</Data></Cell>
+			<Cell><Data ss:Type="String">america do nor</Data></Cell>
+			<Cell><Data ss:Type="String">INGLES</Data></Cell>
+			<Cell><Data ss:Type="Number">9600000</Data></Cell>
+			<Cell><Data ss:Type="Number">9800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1350045007</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">chile</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">5200000</Data></Cell>
+			<Cell><Data ss:Type="Number">5800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1750045005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">BRASIL</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">PORTUGUES</Data></Cell>
+			<Cell><Data ss:Type="Number">6500000</Data></Cell>
+			<Cell><Data ss:Type="Number">23000000</Data></Cell>
+			<Cell><Data ss:Type="Number">500320002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">uruguai</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">3200000</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="Number">1050032001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">argentina</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">3100000</Data></Cell>
+			<Cell><Data ss:Type="Number">3400000</Data></Cell>
+			<Cell><Data ss:Type="Number">1040025001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">venezuaela</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">4200000</Data></Cell>
+			<Cell><Data ss:Type="Number">3800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1250032001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">peru</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">1200000</Data></Cell>
+			<Cell><Data ss:Type="Number">3000000</Data></Cell>
+			<Cell><Data ss:Type="Number">1040032001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">bolivia</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="Number">3100000</Data></Cell>
+			<Cell><Data ss:Type="Number">1020025001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">colombia</Data></Cell>
+			<Cell><Data ss:Type="String">america do sul</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">4100000</Data></Cell>
+			<Cell><Data ss:Type="Number">3500000</Data></Cell>
+			<Cell><Data ss:Type="Number">1230032001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">PANAMA</Data></Cell>
+			<Cell><Data ss:Type="String">america entral</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">1500010</Data></Cell>
+			<Cell><Data ss:Type="Number">11300000</Data></Cell>
+			<Cell><Data ss:Type="Number">100110300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">PORTO RICO</Data></Cell>
+			<Cell><Data ss:Type="String">america entral</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">1000010</Data></Cell>
+			<Cell><Data ss:Type="Number">11200000</Data></Cell>
+			<Cell><Data ss:Type="Number">100200300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">REP DOMINICANA</Data></Cell>
+			<Cell><Data ss:Type="String">america entral</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">1300010</Data></Cell>
+			<Cell><Data ss:Type="Number">18200000</Data></Cell>
+			<Cell><Data ss:Type="Number">100200200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">GUATEMALA</Data></Cell>
+			<Cell><Data ss:Type="String">america entral</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">1000010</Data></Cell>
+			<Cell><Data ss:Type="Number">11200000</Data></Cell>
+			<Cell><Data ss:Type="Number">100200300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">mexico</Data></Cell>
+			<Cell><Data ss:Type="String">america nor</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">7600000</Data></Cell>
+			<Cell><Data ss:Type="Number">8800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1750045005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">SURINAME</Data></Cell>
+			<Cell><Data ss:Type="String">america SUL</Data></Cell>
+			<Cell><Data ss:Type="String">HOLANDES</Data></Cell>
+			<Cell><Data ss:Type="Number">1000010</Data></Cell>
+			<Cell><Data ss:Type="Number">10200000</Data></Cell>
+			<Cell><Data ss:Type="Number">100000200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">japao</Data></Cell>
+			<Cell><Data ss:Type="String">asia</Data></Cell>
+			<Cell><Data ss:Type="String">JAPONES</Data></Cell>
+			<Cell><Data ss:Type="Number">2200000</Data></Cell>
+			<Cell><Data ss:Type="Number">3800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1050045005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">ESCOCIA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">ESCOCES</Data></Cell>
+			<Cell><Data ss:Type="Number">1200000</Data></Cell>
+			<Cell><Data ss:Type="Number">1000300</Data></Cell>
+			<Cell><Data ss:Type="Number">100350002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">SUIÇA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">FRANCES</Data></Cell>
+			<Cell><Data ss:Type="Number">1400000</Data></Cell>
+			<Cell><Data ss:Type="Number">11000200</Data></Cell>
+			<Cell><Data ss:Type="Number">300110100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">RUSSIA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">RUSSO</Data></Cell>
+			<Cell><Data ss:Type="Number">7400000</Data></Cell>
+			<Cell><Data ss:Type="Number">65000000</Data></Cell>
+			<Cell><Data ss:Type="Number">500120002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">albania</Data></Cell>
+			<Cell><Data ss:Type="String">europa</Data></Cell>
+			<Cell><Data ss:Type="String">ALBANES</Data></Cell>
+			<Cell><Data ss:Type="Number">4200000</Data></Cell>
+			<Cell><Data ss:Type="Number">4800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1250045005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">albania</Data></Cell>
+			<Cell><Data ss:Type="String">europa</Data></Cell>
+			<Cell><Data ss:Type="String">ALBANES</Data></Cell>
+			<Cell><Data ss:Type="Number">4200000</Data></Cell>
+			<Cell><Data ss:Type="Number">4800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1250045005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">espanha</Data></Cell>
+			<Cell><Data ss:Type="String">europa</Data></Cell>
+			<Cell><Data ss:Type="String">ESPANHOL</Data></Cell>
+			<Cell><Data ss:Type="Number">5600000</Data></Cell>
+			<Cell><Data ss:Type="Number">7800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1150045007</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">reino unido</Data></Cell>
+			<Cell><Data ss:Type="String">europa</Data></Cell>
+			<Cell><Data ss:Type="String">INGLES</Data></Cell>
+			<Cell><Data ss:Type="Number">9600000</Data></Cell>
+			<Cell><Data ss:Type="Number">9800000</Data></Cell>
+			<Cell><Data ss:Type="Number">1950045007</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">ITALIA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">ITALIANO</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="Number">21000000</Data></Cell>
+			<Cell><Data ss:Type="Number">100420002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">austria</Data></Cell>
+			<Cell><Data ss:Type="String">europa</Data></Cell>
+			<Cell><Data ss:Type="String">AUSTRIACO</Data></Cell>
+			<Cell><Data ss:Type="Number">5200000</Data></Cell>
+			<Cell><Data ss:Type="Number">4500000</Data></Cell>
+			<Cell><Data ss:Type="Number">1250032005</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">CROACIA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">CROATA</Data></Cell>
+			<Cell><Data ss:Type="Number">1100000</Data></Cell>
+			<Cell><Data ss:Type="Number">1000000</Data></Cell>
+			<Cell><Data ss:Type="Number">100120002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">HUNGRIA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">ALEMAO</Data></Cell>
+			<Cell><Data ss:Type="Number">1200000</Data></Cell>
+			<Cell><Data ss:Type="Number">11000000</Data></Cell>
+			<Cell><Data ss:Type="Number">200110100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">HOLANDA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">HOLANDES</Data></Cell>
+			<Cell><Data ss:Type="Number">1150000</Data></Cell>
+			<Cell><Data ss:Type="Number">21500000</Data></Cell>
+			<Cell><Data ss:Type="Number">100120002</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">SUECIA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">SUECO</Data></Cell>
+			<Cell><Data ss:Type="Number">1500000</Data></Cell>
+			<Cell><Data ss:Type="Number">11500000</Data></Cell>
+			<Cell><Data ss:Type="Number">100250300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">INGLATERRA</Data></Cell>
+			<Cell><Data ss:Type="String">EUROPA</Data></Cell>
+			<Cell><Data ss:Type="String">INGLES</Data></Cell>
+			<Cell><Data ss:Type="Number">2500000</Data></Cell>
+			<Cell><Data ss:Type="Number">11000000</Data></Cell>
+			<Cell><Data ss:Type="Number">100250002</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
